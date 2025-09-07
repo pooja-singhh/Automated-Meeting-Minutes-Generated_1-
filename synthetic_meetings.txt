@@ -1,0 +1,49 @@
+
+=== MEETING 1 ===
+Transcript:
+Alice: Welcome everyone. Let's start with the Q3 project review.
+Bob: The development team has completed 80% of the tasks for the mobile app.
+Carol: On the marketing side, we finalized the campaign strategy.
+Dave: For the client demo next Tuesday, I suggest we run internal testing by Friday.
+Alice: Agreed, Dave. Bob, can you ensure all critical bugs are fixed before Friday?
+Bob: Yes, I will prioritize the critical issues.
+Carol: I will prepare the presentation slides and the metrics report by Monday.
+
+Action Items:
+- Run internal testing for client demo | Person: Dave | Deadline: Friday
+- Fix critical bugs in mobile app | Person: Bob | Deadline: Friday
+- Prepare presentation slides and metrics report | Person: Carol | Deadline: Monday
+
+Participants: Alice, Bob, Carol, Dave
+
+=== MEETING 2 ===
+Transcript:
+Emma: Let's discuss the budget allocation for next quarter.
+Frank: We need to increase the marketing budget by 15%.
+Grace: I will prepare a detailed comparison report for all departments by Wednesday.
+Henry: We should schedule a follow-up meeting after Grace shares the report.
+Isla: I can coordinate with the finance team to ensure approvals by Thursday.
+
+Action Items:
+- Prepare department comparison report | Person: Grace | Deadline: Wednesday
+- Coordinate with finance for approvals | Person: Isla | Deadline: Thursday
+- Schedule follow-up meeting | Person: Henry | Deadline: None
+
+Participants: Emma, Frank, Grace, Henry, Isla
+
+=== MEETING 3 ===
+Transcript:
+Jack: We need to finalize the design specs for the new website.
+Karen: I will draft the wireframes and share by Wednesday.
+Leo: I can create the mockups and provide feedback by Friday.
+Mia: Let's hold a review session on Friday afternoon to consolidate feedback.
+Jack: Sounds good, Mia. Also, ensure all assets are optimized for mobile devices.
+
+Action Items:
+- Draft wireframes | Person: Karen | Deadline: Wednesday
+- Create mockups and provide feedback | Person: Leo | Deadline: Friday
+- Hold review session | Person: Mia | Deadline: Friday afternoon
+- Optimize assets for mobile devices | Person: Jack | Deadline: None
+
+Participants: Jack, Karen, Leo, Mia
+

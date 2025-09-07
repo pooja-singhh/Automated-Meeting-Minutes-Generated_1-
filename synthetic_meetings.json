@@ -1,0 +1,62 @@
+[
+    {
+        "transcript": "\n        Alice: We need to finalize the Q2 report by Friday.\n        Bob: I will prepare the financial summary.\n        Carol: I will review the marketing slides by Thursday.\n        Dave: Let's schedule a follow-up meeting next Monday.\n        ",
+        "action_items": [
+            {
+                "task": "Finalize the Q2 report",
+                "person": "Alice",
+                "deadline": "Friday"
+            },
+            {
+                "task": "Prepare the financial summary",
+                "person": "Bob",
+                "deadline": null
+            },
+            {
+                "task": "Review marketing slides",
+                "person": "Carol",
+                "deadline": "Thursday"
+            },
+            {
+                "task": "Schedule follow-up meeting",
+                "person": "Dave",
+                "deadline": "Next Monday"
+            }
+        ]
+    },
+    {
+        "transcript": "\n        Emma: The client presentation must be ready by Wednesday.\n        Frank: I will handle the design slides.\n        Grace: I will compile the supporting documents.\n        ",
+        "action_items": [
+            {
+                "task": "Prepare client presentation",
+                "person": "Emma",
+                "deadline": "Wednesday"
+            },
+            {
+                "task": "Handle design slides",
+                "person": "Frank",
+                "deadline": null
+            },
+            {
+                "task": "Compile supporting documents",
+                "person": "Grace",
+                "deadline": null
+            }
+        ]
+    },
+    {
+        "transcript": "\n        Henry: We need to brainstorm ideas for the new product launch.\n        Isla: I can draft initial concepts by Friday.\n        Jack: I will gather customer feedback by Thursday.\n        ",
+        "action_items": [
+            {
+                "task": "Draft initial concepts",
+                "person": "Isla",
+                "deadline": "Friday"
+            },
+            {
+                "task": "Gather customer feedback",
+                "person": "Jack",
+                "deadline": "Thursday"
+            }
+        ]
+    }
+]
